@@ -1,0 +1,2686 @@
+[
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/layout_fragment_home.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day338.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day338.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.lad.weatherlty.app-debug-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night353.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night353.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day299.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day299.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day200.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day200.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night389.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night389.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_down_arrow.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/down_arrow.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day359.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day359.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_state_bottom_nav.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/state_bottom_nav.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night260.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night260.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night296.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night296.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day263.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day263.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night362.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night362.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day356.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day356.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day326.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day326.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_extended_card.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/extended_card.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day326.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day326.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_forecast.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/forecast.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day302.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day302.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day395.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day395.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day350.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day350.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_sunrise_icon.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/sunrise_icon.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day320.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day320.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_setting_icon.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/setting_icon.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_night359.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/night359.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_wether__icon.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/wether__icon.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night335.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night335.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night143.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night143.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day374.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day374.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_day122.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/day122.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night143.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night143.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night116.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night116.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night266.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night266.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_up_arrow.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/up_arrow.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night116.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night116.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night308.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night308.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night371.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night371.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_sun.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/sun.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night122.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night122.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day284.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day284.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night230.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night230.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day332.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day332.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night182.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night182.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_cricket_icon.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/cricket_icon.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day368.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day368.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day317.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day317.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night122.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night122.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day293.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day293.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day359.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day359.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day386.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day386.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day230.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day230.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night332.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night332.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day179.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day179.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day266.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day266.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day305.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day305.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night116.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night116.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night317.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night317.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day176.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day176.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day227.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day227.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_day113.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/day113.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day359.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day359.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day281.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day281.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night116.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night116.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night179.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night179.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day296.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day296.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_sunset_icon.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/sunset_icon.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night386.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night386.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night143.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night143.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day329.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day329.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night305.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night305.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night284.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night284.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night374.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night374.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/menu_bottom_nav.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night320.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night320.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night200.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night200.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night329.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night329.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night143.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night143.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day362.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day362.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night143.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night143.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night299.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night299.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day326.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day326.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_day116.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/day116.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night338.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night338.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/layout_fragment_forecast.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/layout/fragment_forecast.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day371.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day371.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day389.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day389.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day260.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day260.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day248.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day248.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night122.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night122.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night227.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night227.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day353.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day353.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day359.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day359.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/font_inter_bold.ttf.flat",
+        "source": "com.lad.weatherlty.app-main-7:/font/inter_bold.ttf"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night311.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night311.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night356.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night356.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day119.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day119.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day335.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day335.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day326.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day326.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_wind.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/wind.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night350.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night350.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/font_inter_medium.ttf.flat",
+        "source": "com.lad.weatherlty.app-main-7:/font/inter_medium.ttf"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day326.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day326.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day326.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day326.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day326.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day326.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_night113.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/night113.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/font_inter_semibold.ttf.flat",
+        "source": "com.lad.weatherlty.app-main-7:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_location_on_24.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/location_on_24.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day359.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day359.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night377.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night377.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night281.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night281.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/raw_loading.json.flat",
+        "source": "com.lad.weatherlty.app-main-7:/raw/loading.json"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night143.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night143.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night302.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night302.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day314.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day314.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night116.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night116.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night323.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night323.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_humidity.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/humidity.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_day143.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/day143.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day182.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day182.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day308.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day308.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day392.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day392.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day359.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day359.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/font_inter.ttf.flat",
+        "source": "com.lad.weatherlty.app-main-7:/font/inter.ttf"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night116.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night116.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night176.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night176.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day377.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day377.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night122.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night122.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day323.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day323.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night392.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night392.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_splash_icon.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/splash_icon.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day338.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day338.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night122.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night122.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night185.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night185.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night293.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night293.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night317.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night317.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day311.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day311.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night314.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night314.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night248.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night248.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night365.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night365.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night368.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night368.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night365.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night365.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day353.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day353.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night122.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night122.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day365.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day365.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night185.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night185.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day359.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day359.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night392.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night392.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night356.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night356.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night263.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night263.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day314.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day314.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_night395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/night395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night395.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night395.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day230.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day230.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day305.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day305.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night248.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night248.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day377.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day377.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night263.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night263.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_night119.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/night119.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night116.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night116.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night179.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night179.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night119.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night119.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day350.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day350.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day368.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day368.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day227.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day227.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_night395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/night395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night371.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night371.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day182.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day182.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day260.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day260.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day335.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day335.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day299.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day299.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night329.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night329.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day302.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day302.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night293.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night293.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_day389.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/day389.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night284.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night284.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night320.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night320.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night323.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night323.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-mdpi_day308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-mdpi/day308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night266.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night266.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_head_icon.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/head_icon.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable_card_bg.xml.flat",
+        "source": "com.lad.weatherlty.app-main-7:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night281.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night281.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day311.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day311.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day332.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day332.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xhdpi_night374.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xhdpi/night374.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_day176.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/day176.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_night200.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/night200.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-anydpi-v24_day185.xml.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-anydpi-v24/day185.xml"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxhdpi_day362.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxhdpi/day362.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day386.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day386.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_day395.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/day395.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night143.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night143.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-xxxhdpi_day296.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-xxxhdpi/day296.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-hdpi_night308.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-hdpi/night308.png"
+    },
+    {
+        "merged": "com.lad.weatherlty.app-merged_res-5:/drawable-ldpi_night122.png.flat",
+        "source": "com.lad.weatherlty.app-pngs-0:/drawable-ldpi/night122.png"
+    }
+]

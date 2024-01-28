@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Weatherlty" parent="Theme.AppCompat.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/primary_light</item>
+
+
+
+    </style>
+
+    <style name="text_regular" >
+        <item name="fontFamily">@font/inter</item>
+    </style>
+    <style name="text_medium" >
+        <item name="fontFamily">@font/inter_medium</item>
+    </style>
+    <style name="text_rsemibold" >
+        <item name="fontFamily">@font/inter_semibold</item>
+    </style>
+
+
+
+
+</resources>

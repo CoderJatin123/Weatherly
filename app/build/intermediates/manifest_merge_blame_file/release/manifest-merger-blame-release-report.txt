@@ -1,0 +1,118 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lad.weatherlty"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:5:5-66
+11-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:6:5-78
+12-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:7:5-80
+13-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:7:22-78
+14
+15    <permission
+15-->[androidx.core:core:1.9.0] F:\jdk-17.0.1\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+16        android:name="com.lad.weatherlty.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.9.0] F:\jdk-17.0.1\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.9.0] F:\jdk-17.0.1\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.lad.weatherlty.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.9.0] F:\jdk-17.0.1\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.9.0] F:\jdk-17.0.1\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:8:5-35:19
+22        android:allowBackup="true"
+22-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:9:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] F:\jdk-17.0.1\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:10:9-65
+25        android:fullBackupContent="@xml/backup_rules"
+25-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:11:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:12:9-43
+27        android:label="@string/app_name"
+27-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:13:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:14:9-54
+29        android:supportsRtl="true"
+29-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:15:9-35
+30        android:theme="@style/Theme.Weatherly" >
+30-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:16:9-47
+31        <activity
+31-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:19:9-31:20
+32            android:name="com.lad.weatherly.MainActivity"
+32-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:20:13-58
+33            android:exported="true" >
+33-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:21:13-36
+34            <intent-filter>
+34-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:22:13-26:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:23:17-69
+35-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:23:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:25:17-77
+37-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:25:27-74
+38            </intent-filter>
+39
+40            <meta-data
+40-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:28:13-30:36
+41                android:name="android.app.lib_name"
+41-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:29:17-52
+42                android:value="" />
+42-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:30:17-33
+43        </activity>
+44
+45        <meta-data
+45-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:32:9-34:57
+46            android:name="preloaded_fonts"
+46-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:33:13-43
+47            android:resource="@array/preloaded_fonts" />
+47-->E:\Androd Applications\weatherly\app\src\main\AndroidManifest.xml:34:13-54
+48
+49        <service
+49-->[androidx.room:room-runtime:2.5.0] F:\jdk-17.0.1\caches\transforms-3\20def261a87cf9158cb2c39e2f9cfe88\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+50            android:name="androidx.room.MultiInstanceInvalidationService"
+50-->[androidx.room:room-runtime:2.5.0] F:\jdk-17.0.1\caches\transforms-3\20def261a87cf9158cb2c39e2f9cfe88\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+51            android:directBootAware="true"
+51-->[androidx.room:room-runtime:2.5.0] F:\jdk-17.0.1\caches\transforms-3\20def261a87cf9158cb2c39e2f9cfe88\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+52            android:exported="false" />
+52-->[androidx.room:room-runtime:2.5.0] F:\jdk-17.0.1\caches\transforms-3\20def261a87cf9158cb2c39e2f9cfe88\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.2.0] F:\jdk-17.0.1\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.2.0] F:\jdk-17.0.1\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+56            android:authorities="com.lad.weatherlty.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.2.0] F:\jdk-17.0.1\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.2.0] F:\jdk-17.0.1\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.2.0] F:\jdk-17.0.1\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.2.0] F:\jdk-17.0.1\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.2.0] F:\jdk-17.0.1\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] F:\jdk-17.0.1\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] F:\jdk-17.0.1\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] F:\jdk-17.0.1\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>
