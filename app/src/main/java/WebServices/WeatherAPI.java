@@ -34,7 +34,7 @@ public class WeatherAPI {
     public interface WeatherService{
         @Headers({
                 "Content-Type: application/json",
-                "X-RapidAPI-Key: 746bb34e04msh758ce4be48a9319p19b422jsn1b2062089163",
+                "X-RapidAPI-Key: YOUR_API_KEY",
                 "X-RapidAPI-Host: weatherapi-com.p.rapidapi.com"
         })
         @GET(weather)
